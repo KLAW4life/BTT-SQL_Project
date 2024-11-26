@@ -32,7 +32,7 @@ def get_all_students():
     try:
         cnx = mysql.connector.connect(**db_config)
         cursor = cnx.cursor(dictionary=True)
-        query = "SELECT * FROM Students;"
+        query = "-------------------------------------------------------------------"
         cursor.execute(query)
         results = cursor.fetchall()
         cursor.close()
@@ -49,7 +49,7 @@ def get_mathematics_courses():
     try:
         cnx = mysql.connector.connect(**db_config)
         cursor = cnx.cursor(dictionary=True)
-        query = "SELECT * FROM Courses WHERE Department = 'Mathematics';"
+        query = "-------------------------------------------------------------------"
         cursor.execute(query)
         results = cursor.fetchall()
         cursor.close()
@@ -66,7 +66,7 @@ def get_students_under_21():
     try:
         cnx = mysql.connector.connect(**db_config)
         cursor = cnx.cursor(dictionary=True)
-        query = "SELECT FirstName, LastName, Age FROM Students WHERE Age < 21;"
+        query = "-------------------------------------------------------------------"
         cursor.execute(query)
         results = cursor.fetchall()
         cursor.close()
@@ -83,7 +83,7 @@ def get_courses_with_3_or_more_credits():
     try:
         cnx = mysql.connector.connect(**db_config)
         cursor = cnx.cursor(dictionary=True)
-        query = "SELECT CourseName, Credits FROM Courses WHERE Credits >= 3;"
+        query = "-------------------------------------------------------------------"
         cursor.execute(query)
         results = cursor.fetchall()
         cursor.close()
@@ -100,7 +100,7 @@ def count_total_students():
     try:
         cnx = mysql.connector.connect(**db_config)
         cursor = cnx.cursor(dictionary=True)
-        query = "SELECT COUNT(*) AS TotalStudents FROM Students;"
+        query = "-------------------------------------------------------------------"
         cursor.execute(query)
         results = cursor.fetchone()
         cursor.close()
