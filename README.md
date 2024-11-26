@@ -11,7 +11,7 @@ In the command line, start the script_create_db.py program
 
 ```bash
 python script_create_db.py
-```
+``````
 
 OR
 
@@ -41,7 +41,7 @@ source venv/bin/activate
 
 If you have a Windows System you run this command to create your virtual environment
 ```bash
-.\venv\Scripts\activate
+venv\Scripts\activate
 ```
 Install all the requirements for the project to run
 ```bash

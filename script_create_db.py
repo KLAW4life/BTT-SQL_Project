@@ -16,14 +16,21 @@ load_dotenv()
 
 
 # Database connection configuration using environment variables
-conn = {
-    'host': os.getenv('DB_HOST'),
-    'user': os.getenv('DB_USER'),
-    'password': os.getenv('DB_PASSWORD'),
-    'database': os.getenv('DB_NAME'),
-    'auth_plugin': os.getenv('AUTH_PLUGIN')
-}
+conn = mysql.connector.connect(
+    host= os.getenv('DB_HOST'),
+    user= os.getenv('DB_USER'),
+    password= os.getenv('DB_PASSWORD'),
+    database= os.getenv('DB_NAME'),
+    auth_plugin= os.getenv('AUTH_PLUGIN')
+)
 
+# If you are getting any errors, use this connection instead.
+# conn = mysql.connector.connect(
+    # host= os.getenv('DB_HOST'),
+    # user= os.getenv('DB_USER'),
+    # password= os.getenv('DB_PASSWORD'),
+    # auth_plugin= os.getenv('AUTH_PLUGIN')
+# )
 cursor = conn.cursor()
 
 print("Creating Database....")
