@@ -1,0 +1,151 @@
+FirstName,LastName,Gender,Age,EnrollmentYear,Major
+Mary,Brown,Female,24,2022,Biology
+Jennifer,Taylor,Female,18,2023,Mathematics
+Elizabeth,Johnson,Female,20,2024,Engineering
+Patricia,Johnson,Female,18,2020,Biology
+Robert,Smith,Male,23,2022,Biology
+Mary,Brown,Female,23,2024,Biology
+James,Anderson,Male,19,2023,Engineering
+Linda,Taylor,Female,21,2023,History
+Robert,Taylor,Male,24,2020,Engineering
+Mary,Johnson,Female,25,2022,Biology
+David,Taylor,Male,25,2020,History
+Mary,Smith,Female,22,2022,Engineering
+Michael,Brown,Male,25,2022,Engineering
+David,Brown,Male,25,2022,Mathematics
+Michael,Anderson,Male,25,2023,Biology
+David,Anderson,Male,25,2024,Mathematics
+James,Smith,Male,24,2023,Biology
+Patricia,Anderson,Female,25,2024,History
+Michael,Johnson,Male,23,2020,Mathematics
+Jennifer,Taylor,Female,18,2024,Computer Science
+Mary,Smith,Female,19,2021,Mathematics
+Jennifer,Taylor,Female,25,2022,Biology
+Robert,Taylor,Male,18,2021,Computer Science
+James,Brown,Male,24,2022,Mathematics
+Elizabeth,Smith,Female,19,2020,History
+Linda,Taylor,Female,20,2024,Biology
+John,Brown,Male,25,2022,History
+Patricia,Anderson,Female,21,2021,Biology
+Mary,Smith,Female,20,2024,Engineering
+David,Smith,Male,18,2021,Biology
+Elizabeth,Taylor,Female,18,2021,History
+Robert,Smith,Male,25,2024,Mathematics
+James,Anderson,Male,25,2023,Mathematics
+Linda,Johnson,Female,22,2021,Mathematics
+Patricia,Smith,Female,19,2024,Computer Science
+Michael,Smith,Male,24,2021,Computer Science
+Mary,Smith,Female,24,2020,History
+Michael,Johnson,Male,19,2022,Computer Science
+Michael,Johnson,Male,22,2020,Computer Science
+Linda,Smith,Female,21,2021,Biology
+Elizabeth,Johnson,Female,25,2021,Biology
+James,Anderson,Male,23,2020,Computer Science
+David,Taylor,Male,23,2023,Engineering
+James,Johnson,Male,21,2024,Mathematics
+Robert,Anderson,Male,18,2024,History
+David,Taylor,Male,23,2024,Engineering
+Elizabeth,Smith,Female,20,2021,Biology
+James,Taylor,Male,24,2021,Mathematics
+David,Johnson,Male,24,2023,Computer Science
+David,Taylor,Male,21,2020,Computer Science
+James,Brown,Male,18,2024,History
+Mary,Johnson,Female,25,2020,Computer Science
+Mary,Taylor,Female,21,2022,Biology
+John,Smith,Male,21,2022,Computer Science
+Linda,Anderson,Female,22,2024,Biology
+Elizabeth,Smith,Female,19,2021,Computer Science
+Robert,Smith,Male,23,2021,Biology
+Michael,Taylor,Male,25,2021,Engineering
+Robert,Anderson,Male,20,2023,Computer Science
+John,Anderson,Male,23,2023,Mathematics
+Michael,Taylor,Male,23,2021,Biology
+Elizabeth,Smith,Female,25,2022,Computer Science
+Linda,Taylor,Female,25,2024,History
+Patricia,Taylor,Female,20,2020,Computer Science
+Elizabeth,Brown,Female,20,2021,Biology
+Patricia,Smith,Female,25,2021,Engineering
+Patricia,Brown,Female,21,2022,Engineering
+Michael,Anderson,Male,22,2022,Computer Science
+Mary,Smith,Female,24,2020,Mathematics
+Mary,Taylor,Female,21,2020,History
+John,Johnson,Male,20,2024,Computer Science
+Elizabeth,Brown,Female,21,2023,Mathematics
+Jennifer,Brown,Female,18,2020,Biology
+Elizabeth,Taylor,Female,23,2020,Engineering
+Linda,Smith,Female,22,2021,Computer Science
+David,Johnson,Male,24,2021,Computer Science
+Robert,Anderson,Male,20,2023,Mathematics
+Mary,Smith,Female,20,2021,History
+Jennifer,Brown,Female,23,2023,Biology
+Jennifer,Anderson,Female,21,2020,History
+James,Brown,Male,21,2023,Mathematics
+Patricia,Johnson,Female,22,2021,Computer Science
+Mary,Anderson,Female,23,2020,Biology
+Robert,Brown,Male,23,2020,History
+Jennifer,Anderson,Female,19,2023,Computer Science
+Patricia,Taylor,Female,25,2024,Mathematics
+Patricia,Taylor,Female,24,2023,History
+Linda,Anderson,Female,22,2020,Biology
+John,Brown,Male,20,2021,Engineering
+Jennifer,Brown,Female,21,2023,Computer Science
+James,Taylor,Male,22,2020,Computer Science
+Robert,Johnson,Male,22,2023,History
+Mary,Brown,Female,19,2020,Computer Science
+Michael,Brown,Male,24,2024,Computer Science
+Michael,Johnson,Male,24,2023,Computer Science
+Elizabeth,Anderson,Female,21,2023,Biology
+John,Brown,Male,24,2024,Mathematics
+Elizabeth,Brown,Female,20,2023,Mathematics
+Elizabeth,Taylor,Female,21,2024,Mathematics
+Robert,Anderson,Male,19,2021,Biology
+Jennifer,Johnson,Female,18,2020,Computer Science
+Linda,Smith,Female,19,2020,Mathematics
+Linda,Taylor,Female,21,2024,Mathematics
+Patricia,Taylor,Female,20,2020,Computer Science
+David,Brown,Male,18,2024,Engineering
+David,Taylor,Male,24,2024,Computer Science
+Mary,Smith,Female,23,2023,History
+David,Brown,Male,24,2021,Computer Science
+David,Anderson,Male,19,2023,Mathematics
+Jennifer,Johnson,Female,18,2022,Engineering
+Robert,Smith,Male,25,2023,History
+Michael,Johnson,Male,20,2020,Mathematics
+Michael,Johnson,Male,23,2022,History
+John,Anderson,Male,21,2020,Biology
+David,Taylor,Male,21,2024,Computer Science
+Michael,Johnson,Male,25,2021,History
+David,Brown,Male,24,2020,History
+Robert,Johnson,Male,24,2022,History
+Robert,Smith,Male,25,2021,Mathematics
+Linda,Brown,Female,20,2023,Engineering
+James,Smith,Male,18,2024,History
+Robert,Smith,Male,25,2024,Engineering
+Michael,Anderson,Male,18,2022,Mathematics
+Linda,Smith,Female,18,2020,Biology
+John,Brown,Male,19,2021,Biology
+Robert,Anderson,Male,21,2023,Engineering
+Jennifer,Brown,Female,25,2024,Engineering
+Linda,Brown,Female,21,2024,Computer Science
+Michael,Taylor,Male,20,2020,Computer Science
+Linda,Taylor,Female,24,2024,Biology
+Robert,Smith,Male,23,2020,Computer Science
+Patricia,Brown,Female,24,2024,Engineering
+Mary,Johnson,Female,20,2023,Engineering
+Linda,Anderson,Female,19,2024,Computer Science
+James,Smith,Male,25,2023,Biology
+Elizabeth,Anderson,Female,23,2023,History
+John,Anderson,Male,24,2020,Computer Science
+Mary,Brown,Female,23,2020,Engineering
+Mary,Johnson,Female,19,2021,Computer Science
+David,Smith,Male,20,2022,Computer Science
+Mary,Smith,Female,24,2020,Engineering
+James,Smith,Male,23,2024,Mathematics
+John,Johnson,Male,19,2024,Mathematics
+Linda,Anderson,Female,25,2020,History
+Patricia,Brown,Female,22,2020,Computer Science
+James,Johnson,Male,20,2021,History
+Michael,Johnson,Male,21,2021,Biology
+Robert,Johnson,Male,20,2023,History
+Elizabeth,Smith,Female,25,2023,Biology
+John,Smith,Male,24,2023,Biology
