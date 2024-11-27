@@ -63,7 +63,7 @@ with open('Customers.csv', 'r') as csvfile:
         col1, col2, col3, col4, col5, col6, col7, col8 = row
 
         # Construct the SQL query
-        query = "INSERT INTO Customers (CustomerID, Gender, Age, Annual_Income, Spending_Score, Profession, Work_Experience, Family_Size) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
+        query = "INSERT INTO customers (CustomerID, Gender, Age, Annual_Income, Spending_Score, Profession, Work_Experience, Family_Size) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
 
         # Execute the query
         cursor.execute(query, (col1, col2, col3, col4, col5, col6, col7, col8))
